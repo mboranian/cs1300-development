@@ -219,7 +219,7 @@ function App() {
         <h2>Cart</h2>
         {
           original.filter(checkPresent).map((item) => (
-            <p>{item.name} x {cart[item.name]}</p>
+            <h4>{item.name} x {cart[item.name]}</h4>
           ))
         }
         <h3>Total: ${sum()}</h3>

@@ -1,8 +1,13 @@
+body {
+  background-color: #DBF4A7;
+}
+
+
 .App {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Marker Felt, fantasy;
   margin: 0px;
   margin-bottom: 50px;
   width: 97vw;
@@ -73,9 +78,9 @@ button:active {
   width: 26%;
   margin: 20px;
   padding: 10px;
-  background-color: rgb(233, 233, 233);
+  background-color: #8FA6CB;
   border-radius: 10px;
-  border-width: 3px;
+  border-width: 0px;
   border-color: black;
   border-style: solid;
 }
@@ -91,12 +96,12 @@ img {
 
 #cart {
   position: fixed;
-  background-color: rgb(233, 233, 233);
+  background-color: #439775;
   left: 65%;
   top: 187px;
   width: 30%;
   border-style: solid;
-  border-width: 3px;
+  border-width: 0px;
   border-radius: 10px;
   padding: 20px;
 }
