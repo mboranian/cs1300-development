@@ -1,0 +1,111 @@
+[
+  {
+    "order": 1,
+    "name": "Black High Top Converse",
+    "style": "High Top",
+    "color": "Black and White",
+    "brand": "Converse",
+    "price": 9.99,
+    "image": "images/BlackConverseHightop.jpeg"
+  },
+  {
+    "order": 2,
+    "name": "Cyan High Top Converse",
+    "style": "High Top",
+    "color": "Colorful",
+    "brand": "Converse",
+    "price": 8.99,
+    "image": "images/CyanConverseHightop.jpeg"
+  },
+  {
+    "order": 3,
+    "name": "Pink High Top Converse",
+    "style": "High Top",
+    "color": "Colorful",
+    "brand": "Converse",
+    "price": 7.99,
+    "image": "images/PinkConverseHightop.jpeg"
+  },
+  {
+    "order": 4,
+    "name": "Black Low Top Converse",
+    "style": "Low Top",
+    "color": "Black and White",
+    "brand": "Converse",
+    "price": 6.99,
+    "image": "images/BlackConverseLowtop.jpeg"
+  },
+  {
+    "order": 5,
+    "name": "Yellow Low Top Converse",
+    "style": "Low Top",
+    "color": "Colorful",
+    "brand": "Converse",
+    "price": 5.99,
+    "image": "images/YellowConverseLowtop.jpeg"
+  },
+  {
+    "order": 6,
+    "name": "Blue Low Top Converse",
+    "style": "Low Top",
+    "color": "Colorful",
+    "brand": "Converse",
+    "price": 4.99,
+    "image": "images/BlueConverseLowtop.jpeg"
+  },
+  {
+    "order": 7,
+    "name": "White High Top Vans",
+    "style": "High Top",
+    "color": "Black and White",
+    "brand": "Vans",
+    "price": 3.99,
+    "image": "images/WhiteVansHightop.jpeg"
+  },
+  {
+    "order": 8,
+    "name": "Black High Top Vans",
+    "style": "High Top",
+    "color": "Black and White",
+    "brand": "Vans",
+    "price": 2.99,
+    "image": "images/BlackVansHightop.jpeg"
+  },
+  {
+    "order": 9,
+    "name": "Red High Top Vans",
+    "style": "High Top",
+    "color": "Colorful",
+    "brand": "Vans",
+    "price": 1.99,
+    "image": "images/RedVansHightop.jpeg"
+  },
+  {
+    "order": 10,
+    "name": "White low Top Vans",
+    "style": "Low Top",
+    "color": "Black and White",
+    "brand": "Vans",
+    "price": 12.99,
+    "image": "images/WhiteVansLowtop.jpeg"
+  },
+  {
+    "order": 11,
+    "name": "Black Low Top Vans",
+    "style": "Low Top",
+    "color": "Black and White",
+    "brand": "Vans",
+    "price": 11.99,
+    "image": "images/BlackVansLowtop.jpeg"
+  },
+  {
+    "order": 12,
+    "name": "Blue Low Top Vans",
+    "style": "Low Top",
+    "color": "Colorful",
+    "brand": "Vans",
+    "price": 10.99,
+    "image": "images/BlueVansLowtop.jpeg"
+  }
+  
+]
