@@ -82,8 +82,8 @@ function App() {
 
     //restore original order
     original.sort((a, b) => ((a.order) - (b.order)));
-    shoeData = [...original];
-    setPage(shoeData);
+    //shoeData = [...original];
+    setPage(original);
   }
 
   // function filterByColor() {
